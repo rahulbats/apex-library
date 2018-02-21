@@ -1,0 +1,8 @@
+{
+  "name": "iheart",
+  "description": "iheart assignment",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::618788743154:role/iheart_lambda_function",
+  "environment": {}
+}
